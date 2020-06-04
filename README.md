@@ -5,5 +5,6 @@
 ![screensht](./demo_images/2.png)
 ### or you can stick this on your wall
 ![screensht](./demo_images/3.png)
+### here's a video demo
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o_bAcOWE-IU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
